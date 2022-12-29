@@ -1,4 +1,4 @@
-import { Fireworks } from "./node_modules/fireworks-js/dist/index.es.js";
+import { Fireworks } from "./node_modules/fireworks-js/dist/index.js";
 import { options } from "./options.js";
 
 const container = document.querySelector(".container");
