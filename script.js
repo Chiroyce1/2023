@@ -7,6 +7,7 @@ const fireworks = new Fireworks(container, options);
 const title = document.createElement("h1");
 
 title.id = "title";
+title.innerText = "Happy New Year!";
 
 let target = new Date(2023, 0, 1) / 1000;
 // let target = Date.now() / 1000 + 5;
