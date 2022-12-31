@@ -50,8 +50,8 @@ export const options = {
         max: 100,
     },
     decay: {
-        min: 0.001,
-        max: 0.015,
+        min: 0.01,
+        max: 0.03,
     },
     mouse: {
         click: false,
